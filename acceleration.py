@@ -6,3 +6,4 @@ difference = v-u
 a=difference/t
 
 print("acceleration =",a)
+print("-------------")
