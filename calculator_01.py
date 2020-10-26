@@ -37,7 +37,7 @@ while True:
     elif choice=="4":
         print(num1,"÷",num2,"=",divide(num1,num2))
     else:
-        print("give a valid math operation you retard!!")
+        print("o gadha, thik thak jinish lekh!!")
       
       
            

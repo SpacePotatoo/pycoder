@@ -1,3 +1,10 @@
+"""
+@Author: Ayuta
+Description: find the factorial
+Input: an integer 
+Output: factorial of that integer
+"""
+
 input_num = int(input("enter your number --> "))
 num=input_num
 fact = 1

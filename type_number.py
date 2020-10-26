@@ -7,7 +7,7 @@ Output: Largest of the given three integers
 num = int(input("enter an integer --> "))
 max_num = num
 
-while (num != -1):
+while (num != 0):
     num = int(input("enter another integer --> "))
     if (num > max_num):
         max_num=num
