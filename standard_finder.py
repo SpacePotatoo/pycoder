@@ -28,5 +28,5 @@ elif choice == "n":
 else:
     print("invalid input")
 
-with open('standard_strength.csv',mode='a') as standards:
+with open('D:\\baban\\pythonworks\\py_outputfiles\\standard_strength.csv',mode='a') as standards:
   standards.write(info)
