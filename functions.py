@@ -25,7 +25,7 @@ def animal_cracker(word1):
     else:
         return False
     
-#Driver program to test
+# Driver program to test
 print(even_min(2, 2))
 print(even_cap('AvikDebAyutasOurideb'))
 print(animal_cracker("Long lion"))        
