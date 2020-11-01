@@ -20,11 +20,9 @@ def even_cap(word):
 
 def animal_cracker(word1):
     
-    if word1.split()[0].lower()[0] == word1.split()[1].lower()[0]:
-        return True
-    else:
-        return False
-    
+    wordlist = word1.split()
+    return wordlist[0].lower()[0] == wordlist[1].lower()[0]
+        
 # Driver program to test
 print(even_min(2, 2))
 print(even_cap('AvikDebAyutasOurideb'))

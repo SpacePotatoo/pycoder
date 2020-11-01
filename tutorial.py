@@ -1,10 +1,9 @@
-x=int(input("please enter a number-"))
+import turtle
 
-if x>50:
-    print("x>50")
-elif x<50:
-    print("x<50")
-else:
-    print("x=50")
+baban = turtle.Turtle()
+wn = turtle.Screen()
+
+while True:
+    
     
 
