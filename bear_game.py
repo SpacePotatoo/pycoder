@@ -77,7 +77,8 @@ if response1 == "left" or response1 == "l":
         if response == "fight" or response == "f":
             print("You were no match for those wolves and quickly became their lunch. Farewell, " + name + ".")
             
-        
+        elif response == "run" or response == "r":
+            print("The wolfs quickly caught up to you and devoured you. Farewell adventurer.")
  
         
 sys.exit()

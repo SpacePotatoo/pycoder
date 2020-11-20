@@ -1,8 +1,8 @@
 """
-@author: Ayuta
 Description: program to find primary standard and secondary standard
 input: weight transferred/burette reading
-output: strength of primary standard/secondary standard
+output: strength of primary standard/secondary standard and saving 
+the values in an excel table
 """
 from datetime import date 
 
